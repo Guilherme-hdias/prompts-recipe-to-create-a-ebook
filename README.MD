@@ -40,8 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema Finanças Pessoais. O Ebook é do nicho de Finanças. O título deve ser impactante e curto, que tenha uma temática voltada para público jovem entre 15 e 35 anos.
-Cite 5 variações de títulos.|
+|  título  | Crie um título de um ebook sobre o tema Finanças Pessoais. O Ebook é do nicho de Finanças. O título deve ser impactante e curto, que tenha uma temática voltada para público jovem entre 15 e 35 anos. Cite 5 variações de títulos.|
 | conteúdo | Faça um texto para ebook, com foco em Finanças Pessoais voltada para jovens, citando exemplos práticos.{REGRAS} > Explique sempre de uma maneira simples e leve > Deixe o texto enxuto > Sempre traga exemplos reais > Sempre deixe um título sugestivo por tópico.|
 
 
@@ -68,8 +67,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
     <a href="https://github.com/Guilherme-hdias/Guilherme-hdias">
     GitHub</a>&nbsp;|&nbsp;
    
